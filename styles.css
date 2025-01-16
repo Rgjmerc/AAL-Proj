@@ -16,6 +16,11 @@
 }
 .brn{
     color: #925f1b;
+    text-decoration-color: #815d2d;
+}
+.drk-brn{
+    color: #6d3f02;
+    text-decoration-color: #815d2d;
 }
 .yel:hover{
     color: #925f1b;
