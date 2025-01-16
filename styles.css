@@ -1,0 +1,30 @@
+.custom{
+    color: #20458e;
+}
+.btn-custom{
+    background-color: #20458e;
+}
+.btn-custom-hvr:hover{
+    background-color: cadetblue;
+}
+
+.blu{
+    color: #3e77a5;
+}
+.yel{
+    color: #f8e475;
+}
+.brn{
+    color: #925f1b;
+}
+.yel:hover{
+    color: #925f1b;
+    text-decoration-color:#925f1b;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+body{
+    background-color: #f8e475;
+}
